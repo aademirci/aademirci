@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aademirci almost everywhere.
 - 👨🏻‍💻 I’m interested in web design and front-end development.
-- 👀 I'm currently looking for a job in Izmir.
+- 👀 I'm currently looking for a job in Europe.
 - 🌱 I have a fresh knowledge in React and Redux using TypeScript.
 - 🤘🏻 & 👣🏃🏼 Hobbies: heavy metal history in Turkey and barefoot hiking&running.
 
